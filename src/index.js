@@ -1,7 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
+  setup()
+})
+
+function setup() {
   fetchQuotes()
   handleForm()
-})
+}
 
 function fetchQuotes() {
   fetch("http://localhost:3000/quotes?_embed=likes")
