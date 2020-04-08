@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
-      "id": 3,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Mike Tyson"
-    },
-    {
       "id": 4,
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
       "author": "Eleanor Roosevelt"
@@ -51,15 +36,76 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "This is awesome",
+      "author": "Sarah",
+      "id": 12
+    },
+    {
+      "quote": "\"All things are possible!\"",
+      "author": "Jesus",
+      "id": 13
+    },
+    {
+      "quote": "\"Do your best\"",
+      "author": "Mom",
+      "id": 14
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": 4,
+      "createdAt": "2020-04-08T08:56:00.974Z",
+      "id": 1
+    },
+    {
+      "quoteId": 4,
+      "createdAt": "2020-04-08T08:56:17.865Z",
+      "id": 2
+    },
+    {
+      "quoteId": 4,
+      "createdAt": "2020-04-08T09:01:07.142Z",
+      "id": 3
+    },
+    {
+      "quoteId": 4,
+      "createdAt": "2020-04-08T09:01:38.593Z",
+      "id": 4
+    },
+    {
+      "quoteId": 4,
+      "createdAt": "2020-04-08T09:03:26.136Z",
+      "id": 5
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-04-08T09:03:44.542Z",
+      "id": 6
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-04-08T09:03:45.660Z",
+      "id": 7
+    },
+    {
+      "quoteId": 5,
+      "createdAt": "2020-04-08T09:03:46.255Z",
+      "id": 8
+    },
+    {
+      "quoteId": 4,
+      "createdAt": "2020-04-08T09:04:01.867Z",
+      "id": 9
+    },
+    {
+      "quoteId": 9,
+      "createdAt": "2020-04-08T09:05:05.473Z",
+      "id": 10
+    },
+    {
+      "quoteId": 8,
+      "createdAt": "2020-04-08T09:05:06.712Z",
+      "id": 11
     }
   ]
 }
